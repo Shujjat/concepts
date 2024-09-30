@@ -9,5 +9,5 @@ These are tech/non-tech projects that I would like to take up given the availabi
 - **Black Eye**
 - **AI Eye**
 - **Smart Water Management Kit**
-- - **CliniXel**
+- **CliniXel**
 
